@@ -11,7 +11,7 @@
 <body>
 <h1 align="center">Hello Everyone ! </h1>
 <h1 align="center"> This is test web page</h1>
-	<h1 align="center"> Objective : GIT Merge-developemnt</h1>
+	<h1 align="center"> Objective : GIT Merge-main</h1>
 	<h1 align="center"> Thank you !!!</h1>
 <hr>
 <br>
